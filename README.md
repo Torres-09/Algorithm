@@ -1,5 +1,5 @@
 # Algorithm
    
 ## String Matching Algorithm   
-> Naive Algorithm
+> Naive Algorithm   
 > KMP Algorithm
