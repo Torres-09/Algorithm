@@ -1,2 +1,4 @@
 # Algorithm
-Algorithm Study
+   
+## String Matching Algorithm   
+> Naive Algorithm
